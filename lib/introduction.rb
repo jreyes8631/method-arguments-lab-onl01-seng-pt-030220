@@ -5,3 +5,5 @@ def introduction (name)
  puts lenguage = "Ruby"
  
  end
+ 
+ phrase = "josh"
