@@ -1,5 +1,5 @@
 def introduction (name)
-   "Hi, my name is #{name} and I am learning to program in #{lenguage}."
+   puts "Hi, my name is #{name}" and "I am learning to program in #{lenguage}."
  puts name = "Josh"
  puts Lenguage = "Ruby"
  end
@@ -7,11 +7,3 @@ def introduction (name)
  
   
 end
-
-
-
-def greeting(name)
-  "Hello, " + name + ". How are you doing?"
-end
-
-puts greeting("Bob")
